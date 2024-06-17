@@ -1,0 +1,437 @@
+[
+  {
+    "id_no_hab": 1,
+    "edad": 14,
+    "porcentaje": 5.5168
+  },
+  {
+    "id_no_hab": 2,
+    "edad": 15,
+    "porcentaje": 5.5168
+  },
+  {
+    "id_no_hab": 3,
+    "edad": 16,
+    "porcentaje": 5.5168
+  },
+  {
+    "id_no_hab": 4,
+    "edad": 17,
+    "porcentaje": 5.5168
+  },
+  {
+    "id_no_hab": 5,
+    "edad": 18,
+    "porcentaje": 5.5168
+  },
+  {
+    "id_no_hab": 6,
+    "edad": 19,
+    "porcentaje": 5.5643
+  },
+  {
+    "id_no_hab": 7,
+    "edad": 20,
+    "porcentaje": 5.5643
+  },
+  {
+    "id_no_hab": 8,
+    "edad": 21,
+    "porcentaje": 5.5639
+  },
+  {
+    "id_no_hab": 9,
+    "edad": 22,
+    "porcentaje": 5.5656
+  },
+  {
+    "id_no_hab": 10,
+    "edad": 23,
+    "porcentaje": 5.5712
+  },
+  {
+    "id_no_hab": 11,
+    "edad": 24,
+    "porcentaje": 5.5728
+  },
+  {
+    "id_no_hab": 12,
+    "edad": 25,
+    "porcentaje": 5.5782
+  },
+  {
+    "id_no_hab": 13,
+    "edad": 26,
+    "porcentaje": 5.5815
+  },
+  {
+    "id_no_hab": 14,
+    "edad": 27,
+    "porcentaje": 5.5829
+  },
+  {
+    "id_no_hab": 15,
+    "edad": 28,
+    "porcentaje": 5.5861
+  },
+  {
+    "id_no_hab": 16,
+    "edad": 29,
+    "porcentaje": 5.5911
+  },
+  {
+    "id_no_hab": 17,
+    "edad": 30,
+    "porcentaje": 5.5922
+  },
+  {
+    "id_no_hab": 18,
+    "edad": 31,
+    "porcentaje": 5.5969
+  },
+  {
+    "id_no_hab": 19,
+    "edad": 32,
+    "porcentaje": 5.5996
+  },
+  {
+    "id_no_hab": 20,
+    "edad": 33,
+    "porcentaje": 5.6023
+  },
+  {
+    "id_no_hab": 21,
+    "edad": 34,
+    "porcentaje": 5.6065
+  },
+  {
+    "id_no_hab": 22,
+    "edad": 35,
+    "porcentaje": 5.6072
+  },
+  {
+    "id_no_hab": 23,
+    "edad": 36,
+    "porcentaje": 5.7956
+  },
+  {
+    "id_no_hab": 24,
+    "edad": 37,
+    "porcentaje": 5.7978
+  },
+  {
+    "id_no_hab": 25,
+    "edad": 38,
+    "porcentaje": 5.7882
+  },
+  {
+    "id_no_hab": 26,
+    "edad": 39,
+    "porcentaje": 5.802
+  },
+  {
+    "id_no_hab": 27,
+    "edad": 40,
+    "porcentaje": 5.82
+  },
+  {
+    "id_no_hab": 28,
+    "edad": 41,
+    "porcentaje": 6.7329
+  },
+  {
+    "id_no_hab": 29,
+    "edad": 42,
+    "porcentaje": 6.741
+  },
+  {
+    "id_no_hab": 30,
+    "edad": 43,
+    "porcentaje": 6.7503
+  },
+  {
+    "id_no_hab": 31,
+    "edad": 44,
+    "porcentaje": 6.7624
+  },
+  {
+    "id_no_hab": 32,
+    "edad": 45,
+    "porcentaje": 6.7785
+  },
+  {
+    "id_no_hab": 33,
+    "edad": 46,
+    "porcentaje": 6.795
+  },
+  {
+    "id_no_hab": 34,
+    "edad": 47,
+    "porcentaje": 6.8131
+  },
+  {
+    "id_no_hab": 35,
+    "edad": 48,
+    "porcentaje": 6.8417
+  },
+  {
+    "id_no_hab": 36,
+    "edad": 49,
+    "porcentaje": 6.8657
+  },
+  {
+    "id_no_hab": 37,
+    "edad": 50,
+    "porcentaje": 6.901
+  },
+  {
+    "id_no_hab": 38,
+    "edad": 51,
+    "porcentaje": 8.873
+  },
+  {
+    "id_no_hab": 39,
+    "edad": 52,
+    "porcentaje": 8.9282
+  },
+  {
+    "id_no_hab": 40,
+    "edad": 53,
+    "porcentaje": 8.985
+  },
+  {
+    "id_no_hab": 41,
+    "edad": 54,
+    "porcentaje": 9.0424
+  },
+  {
+    "id_no_hab": 42,
+    "edad": 55,
+    "porcentaje": 9.0983
+  },
+  {
+    "id_no_hab": 43,
+    "edad": 56,
+    "porcentaje": 9.1444
+  },
+  {
+    "id_no_hab": 44,
+    "edad": 57,
+    "porcentaje": 9.1836
+  },
+  {
+    "id_no_hab": 45,
+    "edad": 58,
+    "porcentaje": 9.219
+  },
+  {
+    "id_no_hab": 46,
+    "edad": 59,
+    "porcentaje": 9.2532
+  },
+  {
+    "id_no_hab": 47,
+    "edad": 60,
+    "porcentaje": 9.282
+  },
+  {
+    "id_no_hab": 48,
+    "edad": 61,
+    "porcentaje": 13.393
+  },
+  {
+    "id_no_hab": 49,
+    "edad": 62,
+    "porcentaje": 13.447
+  },
+  {
+    "id_no_hab": 50,
+    "edad": 63,
+    "porcentaje": 13.463
+  },
+  {
+    "id_no_hab": 51,
+    "edad": 64,
+    "porcentaje": 13.481
+  },
+  {
+    "id_no_hab": 52,
+    "edad": 65,
+    "porcentaje": 13.494
+  },
+  {
+    "id_no_hab": 53,
+    "edad": 66,
+    "porcentaje": 13.505
+  },
+  {
+    "id_no_hab": 54,
+    "edad": 67,
+    "porcentaje": 13.515
+  },
+  {
+    "id_no_hab": 55,
+    "edad": 68,
+    "porcentaje": 13.532
+  },
+  {
+    "id_no_hab": 56,
+    "edad": 69,
+    "porcentaje": 13.548
+  },
+  {
+    "id_no_hab": 57,
+    "edad": 70,
+    "porcentaje": 13.564
+  },
+  {
+    "id_no_hab": 58,
+    "edad": 71,
+    "porcentaje": 13.581
+  },
+  {
+    "id_no_hab": 59,
+    "edad": 72,
+    "porcentaje": 13.597
+  },
+  {
+    "id_no_hab": 60,
+    "edad": 73,
+    "porcentaje": 13.613
+  },
+  {
+    "id_no_hab": 61,
+    "edad": 74,
+    "porcentaje": 13.629
+  },
+  {
+    "id_no_hab": 62,
+    "edad": 75,
+    "porcentaje": 36.378
+  },
+  {
+    "id_no_hab": 63,
+    "edad": 76,
+    "porcentaje": 36.421
+  },
+  {
+    "id_no_hab": 64,
+    "edad": 77,
+    "porcentaje": 36.462
+  },
+  {
+    "id_no_hab": 65,
+    "edad": 78,
+    "porcentaje": 36.502
+  },
+  {
+    "id_no_hab": 66,
+    "edad": 79,
+    "porcentaje": 36.542
+  },
+  {
+    "id_no_hab": 67,
+    "edad": 80,
+    "porcentaje": 36.583
+  },
+  {
+    "id_no_hab": 68,
+    "edad": 81,
+    "porcentaje": 36.622
+  },
+  {
+    "id_no_hab": 69,
+    "edad": 82,
+    "porcentaje": 36.66
+  },
+  {
+    "id_no_hab": 70,
+    "edad": 83,
+    "porcentaje": 36.699
+  },
+  {
+    "id_no_hab": 71,
+    "edad": 84,
+    "porcentaje": 36.736
+  },
+  {
+    "id_no_hab": 72,
+    "edad": 85,
+    "porcentaje": 36.772
+  },
+  {
+    "id_no_hab": 73,
+    "edad": 86,
+    "porcentaje": 36.807
+  },
+  {
+    "id_no_hab": 74,
+    "edad": 87,
+    "porcentaje": 36.84
+  },
+  {
+    "id_no_hab": 75,
+    "edad": 88,
+    "porcentaje": 36.872
+  },
+  {
+    "id_no_hab": 76,
+    "edad": 89,
+    "porcentaje": 36.901
+  },
+  {
+    "id_no_hab": 77,
+    "edad": 90,
+    "porcentaje": 36.927
+  },
+  {
+    "id_no_hab": 78,
+    "edad": 91,
+    "porcentaje": 36.951
+  },
+  {
+    "id_no_hab": 79,
+    "edad": 92,
+    "porcentaje": 36.972
+  },
+  {
+    "id_no_hab": 80,
+    "edad": 93,
+    "porcentaje": 36.993
+  },
+  {
+    "id_no_hab": 81,
+    "edad": 94,
+    "porcentaje": 37.017
+  },
+  {
+    "id_no_hab": 82,
+    "edad": 95,
+    "porcentaje": 37.062
+  },
+  {
+    "id_no_hab": 83,
+    "edad": 96,
+    "porcentaje": 37.151
+  },
+  {
+    "id_no_hab": 84,
+    "edad": 97,
+    "porcentaje": 37.355
+  },
+  {
+    "id_no_hab": 85,
+    "edad": 98,
+    "porcentaje": 37.838
+  },
+  {
+    "id_no_hab": 86,
+    "edad": 99,
+    "porcentaje": 39.143
+  },
+  {
+    "id_no_hab": 87,
+    "edad": 100,
+    "porcentaje": 41.021
+  }
+]
