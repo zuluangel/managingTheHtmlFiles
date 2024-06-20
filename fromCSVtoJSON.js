@@ -3,9 +3,9 @@
 const csv = require("csvtojson");
 const fs = require("fs");
 
-const csvPath = "./public/Departamentos_y_municipios_de_Colombia_20240612.csv";
+const csvPath = "./public/tasas_vida.csv";
 const jsonPath =
-  "./public/Departamentos_y_municipios_de_Colombia_20240612.json";
+  "./public/tasas_vida.json";
 
 csv()
   .fromFile(csvPath)
